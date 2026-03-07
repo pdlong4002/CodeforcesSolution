@@ -1,31 +1,14 @@
-# 🎯 Codeforces Solutions Repository
+# 🎯 Codeforces Solutions 
 
-## 📖 About Me
-
-*🧩 Still struggling — currently working through Div 3, and Div 4 problems.*  
-*💫 Hope one day I can consistently solve Div 1 problems 💪✨*  
-*⭐ Star this repo to support my journey of becoming a better coder 🐧🐧🐧*  
+- These are my solutions in Codeforces.
+- Still struggling — currently working through Div 3, and Div 4 problems. 
+- Try to be better every day🧩⭐.
 ---
-
-This repository contains **all my accepted solutions** on Codeforces, organized into **4 Git branches** corresponding to different Divisions for easy management and progress tracking.
-
-### 🌿 Branch Structure
-
-```
-📦 Codeforces (Repository)
-│
-├── 🔹 main 
-├── 🔴 div1 
-├── 🟠 div2
-├── 🟡 div3 
-└── 🟢 div4   
-```
 
 ## 👤 Author
 
-**RamennSama**  
-Codeforces: [Secret🐧👇]  
-GitHub: [@RamennSama](https://github.com/RamennSama)
+- **RamennSama**  
+- Codeforces: [Secret🐧]  
 
 ---
 
