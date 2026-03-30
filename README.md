@@ -7,7 +7,7 @@
 
 ## 👤 Author
 
-- **RamennSama**  
+- **LongPham**  
 - Codeforces: [Secret🐧]  
 
 ---
